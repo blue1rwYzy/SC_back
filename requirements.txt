@@ -1,0 +1,27 @@
+# Python 依赖包列表
+
+# Web 框架
+fastapi==0.115.0
+uvicorn[standard]==0.34.0
+
+# 数据库
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+alembic==1.14.0
+
+# 深度学习
+ultralytics==8.3.60
+torch==2.5.1
+torchvision==0.20.1
+opencv-python==4.10.0.84
+
+# 图像处理
+pillow==11.0.0
+numpy==2.2.1
+
+# 工具
+python-multipart==0.0.20
+aiofiles==24.1.0
+python-dotenv==1.0.1
+pydantic==2.10.5
+pydantic-settings==2.7.0
